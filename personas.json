@@ -1,0 +1,87 @@
+{
+  "Alex": {
+    "name": "Alex",
+    "age": 21,
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "background": "College student who recently moved away from home for the first time.",
+    "current_struggle": "Feeling overwhelmed by academic expectations and pressure from family to succeed.",
+    "communication_style": "Talks quickly when anxious, sometimes changes topics, and is hesitant to admit when he is struggling.",
+    "key_symptoms": [
+      "excessive worry",
+      "difficulty concentrating",
+      "trouble sleeping",
+      "feeling overwhelmed"
+    ],
+    "primary_concerns": [
+      "academic performance",
+      "family expectations",
+      "adjusting to college"
+    ]
+  },
+
+  "Maya": {
+    "name": "Maya",
+    "age": 38,
+    "gender": "Female",
+    "ethnicity": "Black",
+    "background": "Single mother working remotely while caring for two children.",
+    "current_struggle": "Feeling emotionally drained and disconnected from activities she used to enjoy.",
+    "communication_style": "Quiet and thoughtful, gives short answers at first, and has difficulty talking about her own needs.",
+    "key_symptoms": [
+      "low motivation",
+      "fatigue",
+      "loss of interest",
+      "social withdrawal"
+    ],
+    "primary_concerns": [
+      "work-life balance",
+      "parenting stress",
+      "feeling disconnected"
+    ]
+  },
+
+  "Matt": {
+    "name": "Matt",
+    "age": 29,
+    "gender": "Male",
+    "ethnicity": "Japanese American",
+    "background": "Software engineer who recently received a promotion and relocated to a new city.",
+    "current_struggle": "Experiencing work-related burnout and difficulty adjusting to his new environment.",
+    "communication_style": "Polite and analytical, tends to intellectualize his emotions and initially focuses on facts rather than feelings.",
+    "key_symptoms": [
+      "emotional exhaustion",
+      "irritability",
+      "difficulty relaxing",
+      "feeling isolated"
+    ],
+    "primary_concerns": [
+      "work stress",
+      "burnout",
+      "social isolation",
+      "life transition"
+    ]
+  },
+
+  "Sofia": {
+    "name": "Sofia",
+    "age": 67,
+    "gender": "Female",
+    "ethnicity": "Mexican American",
+    "background": "Retired teacher whose adult children live in different states.",
+    "current_struggle": "Feeling lonely after retirement and struggling with changes in her family relationships.",
+    "communication_style": "Warm and talkative but sometimes minimizes her own emotions and quickly changes the subject when discussing loneliness.",
+    "key_symptoms": [
+      "loneliness",
+      "sadness",
+      "difficulty adjusting to retirement",
+      "reduced social activity"
+    ],
+    "primary_concerns": [
+      "retirement",
+      "family relationships",
+      "loneliness",
+      "major life changes"
+    ]
+  }
+}
